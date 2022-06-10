@@ -3,6 +3,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
 
+![Interactive rating](https://user-images.githubusercontent.com/105171818/173122317-4442babc-39cc-45cb-9a6d-86e7fff3d852.png)
+
 ## Challenge from Front End Mentor<br>
 A 1 to 5 interactive rating component
 ## ✔️ Technologies used : 
